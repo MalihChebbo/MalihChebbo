@@ -17,8 +17,8 @@
 </p>
 
 <hr>
-Languages and Tools 
-<hr>
+<h2>Languages and Tools</h2>
+
 <div>
 
 ### Languages:
@@ -52,11 +52,11 @@ Languages and Tools
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="60"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="60" height="60"/> |
 
+<div align="center">
+<hr>
+<h2># 📊 GitHub Stats:</h2>
 
-<hr>
-Statistics 
-<hr>
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=MalihChebbo&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MalihChebbo&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalihChebbo&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -66,5 +66,4 @@ Statistics
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MalihChebbo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
